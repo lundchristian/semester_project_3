@@ -21,7 +21,7 @@ From thoose who brought you self-driving toy cars and power line communications!
 
 Andreas | Alexander | Alexander | Danni | Mahias | Marcus | Grejs | Christian
 
-### File Tree (Read In Raw) => [Tool](https://tree.nathanfriend.io/)
+### File Tree => [Tool](https://tree.nathanfriend.io/)
 
     .
     ├── meetings/
