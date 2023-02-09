@@ -1,6 +1,6 @@
-## Semester Project 3 > AuTomat | VFM | Groot-Au Pair | PlantPal | VCFS
+## Semester Project 3 > Working_Title :recycle:
 
-### Why <insert-title>?
+### WHY
 
 We face a number of challenges as a global society:
 - Climate
@@ -11,12 +11,12 @@ We face a number of challenges as a global society:
 - Foodcrisis
 - Death of nature
 
-### How
+### HOW
 
 Vertical farming modules! Sacalable, open-source and cheap!
 
-### Who
+### WHO
 
-From thoose who brought you self-driving toy cars and power line communications!
+From thoose who brought you self-driving toy cars and power line communications! <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 Andreas | Alexander | Alexander | Danni | Mahias | Marcus | Grejs | Christian
