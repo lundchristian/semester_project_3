@@ -70,3 +70,20 @@ Andreas | Alexander | Alexander | Danni | Mahias | Marcus | Grejs | Christian
             ├── appendix_guide.txt
             ├── logbook.txt
             └── src_code.txt
+
+### Git It
+
+    # Get repo to local directory (only done once)
+    git clone https://github.com/lundchristian/semester_project_3
+
+    # Add all changes or new files
+    Git add .
+
+    # Stage changes locally
+    git commit -m "what has changed message goes here..."
+
+    # Push changes to remote
+    git push
+
+    # Get the latest changes from remote (always dnoe before starting new work)
+    git pull
