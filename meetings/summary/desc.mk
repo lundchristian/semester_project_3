@@ -1,3 +1,0 @@
-### Summary
-
-Referat fra møder
