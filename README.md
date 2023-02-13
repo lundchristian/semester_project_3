@@ -23,7 +23,11 @@ Andreas | Alexander | Alexander | Danni | Mahias | Marcus | Grejs | Christian
 
 ### File Tree => [Tool](https://tree.nathanfriend.io/)
 
+*In multiple directories a 'desc.md' file may be found, this is a description of the directory and its uses*
+
     .
+    ├── resources/
+    │   └── information/...
     ├── meetings/
     │   ├── agenda/...
     │   └── summary/...
@@ -71,19 +75,25 @@ Andreas | Alexander | Alexander | Danni | Mahias | Marcus | Grejs | Christian
             ├── logbook.txt
             └── src_code.txt
 
-### Git It
+### Git It (Useful commands)
 
-    # Get repo to local directory (only done once)
+    # Get repo to local directory (hopefully only done once)
     git clone https://github.com/lundchristian/semester_project_3
 
-    # Add all changes or new files
-    Git add .
+    # Add all changes or new files (files may also be specified)
+    git add .
 
-    # Stage changes locally
+    # Commit changes locally
     git commit -m "what has changed message goes here..."
 
-    # Push changes to remote
+    # Push local changes to remote
     git push
 
-    # Get the latest changes from remote (always dnoe before starting new work)
+    # Get the latest changes from remote (always done before starting new work)
     git pull
+
+### Cheat Sheets
+
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+- [Markdown Emojis](https://gist.github.com/rxaviers/7360908)
+- [Git Commands](https://education.github.com/git-cheat-sheet-education.pdf)
