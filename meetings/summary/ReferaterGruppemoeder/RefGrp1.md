@@ -45,15 +45,15 @@
   - <span style="background:green">Spørgsmål til Michael er markeret grøn</span>
     - <span style="background:green">Bør vi sigte stort og skære ned eller sigte småt og udvide?</span>
 - MoSCoW
-![MoSCoW](resources\summery_img\brainstorm_moscow.jpg)
+![MoSCoW](/resources/summery_img/brainstorm_moscow.jpg)
 - Hydroponisk eller geoponisk
   - Hydroponisk is the chosen one
-![Brainstorm](resources\summery_img\hydrponisk_vs_geoponisk.jpg)
+![Brainstorm](/resources/summery_img/hydrponisk_vs_geoponisk.jpg)
 - Komponenter
   - [Vandtæt temperaturmåler](https://stock.ece.au.dk/components/details/548)
   - [Temperatur/fugtighedsmåler](https://stock.ece.au.dk/components/details/428) eller [denne](https://stock.ece.au.dk/components/details/319)
 - Skitse
-![Skitse](resources\summery_img\skitse.jpg)
+![Skitse](/resources/summery_img/skitse.jpg)
 - Gennemgang
   - git
   - co-op vscode
