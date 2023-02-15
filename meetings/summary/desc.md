@@ -22,11 +22,7 @@ Referat fra møder skal indeholde (markdown format '.md'):
 - Punkter for gennemgang...
 - Aftale neste møde
 
-Filerne navgives som følgende: *dag_måned_type.md*
-
 Eksempel:
-
-*1_1_gruppe.md*
 
 **Mødenummer:** Gruppe -0
 
