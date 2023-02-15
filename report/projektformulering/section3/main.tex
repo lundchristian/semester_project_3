@@ -1,0 +1,49 @@
+\newpage
+\section{Kort beskrivelse af projektet}
+
+Vores løsning til problemet er et vertikalt landbrugssystem, som består af moduler, som kan sammensættes. 
+Systemet består af en linux platform, der giver medarbejderen adgang til informationer omkring planternes tilstand samtidig med at det analyserer billeddata via en extern API (eksempelvis \verb|Planta|) og sender informationen videre til en PSoC. PSoC'en har til ansvar at styre pumper som skal udskifte vandet i systemet, tilføre næring, og en lyskilde i form af et UV-lysstofrør. Dessuden skal den kobles op til sensorer som måler PH-værdi, lys, og temperatur. Det er ønsket at følgende komponenter udgør systemet:
+\begin{itemize}
+
+    \item Styringsenheder:
+    \begin{small}
+    \begin{itemize}
+        \item Raspberry pi
+        \item PSoC
+    \end{itemize}
+    \end{small}
+    
+    \item Sensorer:
+    \begin{small}
+    \begin{itemize}
+        \item Temperatur
+        \item Fotodiode
+        \item PH-sensor
+        \item Kamera
+    \end{itemize}
+    \end{small}
+    
+    \item Aktuatorer:
+    \begin{small}
+    \begin{itemize}
+        \item UV-lampe
+        \item Vandpumpe
+        \item Næringspumpe
+    \end{itemize}
+    \end{small}
+\end{itemize}
+
+Det er meningen at systemet i fremtiden skal kunne bestå af flere vertikale moduler som let kan fremstilles lokalt, derfor konstrueres det fysisk af enkle materialer som et pvc-rør og 3d-printede tanke og for at kunne nøjes med én raspberry pi og ét kamera, til flere forskellige moduler, monteres disse sammen på en skinne over systemet så de kan køres frem og tilbage over planterne.
+
+Man skal dessuden let kunne overvåge systemet over internettet så Raspberry pi enheden er koblet op på en webserver som hoster informationer om systemets tilstand som kan tilgås fra en hjemmeside.
+
+
+
+
+
+
+
+
+
+
+

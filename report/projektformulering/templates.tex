@@ -1,0 +1,43 @@
+% Table template
+\begin{table}[!h]
+\centering
+\begin{tabular}{ c|c|c }
+C11 & C12 & C13 \\
+\hline
+C21 & C22 & C23 \\
+\hline
+C31 & C32 & C33
+\end{tabular}
+\caption{Caption}
+\label{table:idFIG}
+\end{table}
+
+% Figure template
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/...}
+    \caption{Caption}
+    \label{fig:idFIG}
+\end{figure}
+
+% Footnote citation
+\footnote{\textcolor{gray}{Title, p.1\cite{idREF}}}
+
+% Double figure template
+\begin{figure}[h]
+    \centering
+        \begin{subfigure}[b]{0.4\textwidth}
+            \centering
+            \includegraphics[width=\textwidth]{images/...}
+            \caption{Subcaption}
+            \label{fig:idFIG}
+        \end{subfigure}
+        \begin{subfigure}[b]{0.4\textwidth}
+            \centering
+            \includegraphics[width=\textwidth]{images/...}
+            \caption{Subcaption}
+            \label{fig:idFIG}
+        \end{subfigure}
+        \caption{Caption}
+        \label{fig:idFIG}
+\end{figure}
