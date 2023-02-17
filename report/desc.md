@@ -3,9 +3,6 @@
 Filer der skal samles til rapport, følger ca. en fil struktur som vist under.
 
     .
-    ├── meetings/
-    │   ├── agenda/...
-    │   └── summary/...
     └── report/
         ├── head/
         │   ├── frontpage.txt
