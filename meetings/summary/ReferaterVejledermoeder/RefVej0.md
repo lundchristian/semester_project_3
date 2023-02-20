@@ -52,9 +52,3 @@
   - Michael har bla. ekspertise i Linux og i at være scrum master
 - Send store opdatering af projektformulering (gør vi onsdag)
 - Grejs vil gerne være Scrum-master
-
-1. dl
-   1. ld
-      1. lld
-         1. lkd
-            1. lkd
